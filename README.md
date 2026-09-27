@@ -222,34 +222,3 @@ jobs:
 ## 📄 Lisans
 
 Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakın.
-
-## 📞 İletişim
-
-- **Geliştirici**: Ersoz
-- **Email**: ersoz@example.com
-- **GitHub**: [@ersoz12](https://github.com/ersoz12)
-
-## 🙏 Teşekkürler
-
-- Node.js ekibine
-- Express.js ekibine
-- Redis ekibine
-- Açık kaynak topluluğuna katkıları için
-
-## 🔄 Güncellemeler
-
-### v1.0.0 (2024-01-15)
-- İlk sürüm
-- Temel API gateway
-- Authentication sistemi
-- Rate limiting
-
-### v1.1.0 (2024-02-01)
-- Monitoring entegrasyonu
-- Caching sistemi
-- Error handling iyileştirmeleri
-
-### v1.2.0 (2024-03-01)
-- Load balancing
-- Advanced security
-- Performance optimizations 
